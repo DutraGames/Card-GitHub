@@ -7,7 +7,8 @@ Como estava com vontade de usar JS puro e HTML, usei o fetch(), biblioteca padr√
 
 # Imagens
 
-()
+![image](https://user-images.githubusercontent.com/69097449/124409039-eaeb2080-dd1d-11eb-8395-8153c3c1b4ea.png)
+
 
 # Direitos
 
