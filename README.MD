@@ -2,6 +2,10 @@
 
 # Explicação:
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/293d6709-0875-45b6-b63f-ac041b9ba745/deploy-status)](https://app.netlify.com/sites/card-github/deploys)
+
+[Você pode testar clicando aqui](https://card-github.netlify.app/)
+
 Eu estava em meu tempo livre e resolvi desenvolver alguma aplicaação que utilizasse API.
 Como estava com vontade de usar JS puro e HTML, usei o fetch(), biblioteca padrão do navegador.
 
