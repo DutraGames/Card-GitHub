@@ -23,4 +23,7 @@ const req = fetch('https://api.github.com/users/DutraGames')
 
         const local = document.getElementById("local")
         local.innerText = jsonbody.location
+
+        const blog = document.getElementById("blog")
+        blog.innerText = jsonbody.blog
     })
