@@ -21,4 +21,6 @@ const req = fetch('https://api.github.com/users/DutraGames')
         const repos = document.getElementById("public_repos")
         repos.innerText = jsonbody.public_repos
 
+        const local = document.getElementById("local")
+        local.innerText = jsonbody.location
     })
