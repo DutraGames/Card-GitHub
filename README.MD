@@ -1,9 +1,5 @@
 # API GITHUB
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/293d6709-0875-45b6-b63f-ac041b9ba745/deploy-status)](https://app.netlify.com/sites/card-github/deploys)
-
-[click here to test](https://card-github.netlify.app/)
-
 ## 📰Description:
 
 I was in my spare time and decided to develop some app that used API.
